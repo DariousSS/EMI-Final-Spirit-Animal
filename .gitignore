@@ -1,0 +1,15 @@
+# Large model files (too big for GitHub)
+*.pt
+*.pth
+
+# Training data images (too many files)
+gesture_classifier/data/
+
+# Generated images
+gesture_classifier/model/generated/
+
+# TouchDesigner backups
+Backup/
+
+# Mac system files
+.DS_Store
