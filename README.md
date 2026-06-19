@@ -1,6 +1,6 @@
 # Spirit Animal
 
-An interactive AI art installation for *Engaging Machine Intelligence 2026*.
+An interactive AI art project.
 
 In legends from around the world—such as Shamanic traditions and ancient Chinese rituals—owls are regarded as messengers connecting different worlds, and can be summoned through hand gestures. A VAE neural network generates images of owls in real time based on the audience’s hand movements captured by a webcam. Five visual scenes play in an automatic loop, each accompanied by ritualistic drumbeats. The machine thus becomes the presider over the ritual.
 
