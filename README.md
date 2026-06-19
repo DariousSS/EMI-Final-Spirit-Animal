@@ -13,12 +13,7 @@ In legends from around the world—such as Shamanic traditions and ancient Chine
 - TouchDesigner 2025
 - A webcam
 
-### Install Python dependencies
-```bash
-pip install torch torchvision websockets mediapipe opencv-python pillow numpy
-```
-
-### Step 1 — Start the AI server
+### Step 1 -- How To Open — Start the AI server
 ```bash
 cd gesture_classifier/server
 python serve.py
@@ -28,7 +23,5 @@ Keep this running in the background.
 ### Step 2 — Open TouchDesigner
 Open `Spirit Animal.toe` in TouchDesigner.
 
-### Step 3 — View the installation
+### Step 3 — View
 Press **F1** to enter full-screen performance mode.
-
-> Note: Model files (`vae_owl.pt`, `vae_sketch.pt`) are not included due to file size. Contact the author to obtain them.
