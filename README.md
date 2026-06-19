@@ -2,7 +2,7 @@
 
 An interactive AI art installation for *Engaging Machine Intelligence 2026*.
 
-The owl — a messenger between worlds in shamanic traditions and ancient Chinese ritual — is summoned through gesture. A VAE neural network generates owl imagery in real time, driven by the viewer's hand movements captured via webcam. Five visual scenes cycle automatically, each accompanied by ceremonial drum sounds. The machine becomes the ritual host.
+In legends from around the world—such as Shamanic traditions and ancient Chinese rituals—owls are regarded as messengers connecting different worlds, and can be summoned through hand gestures. A VAE neural network generates images of owls in real time based on the audience’s hand movements captured by a webcam. Five visual scenes play in an automatic loop, each accompanied by ritualistic drumbeats. The machine thus becomes the presider over the ritual.
 
 ---
 
